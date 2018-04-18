@@ -6,8 +6,8 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   exporter="DMN Modeler" exporterVersion="6.0.6"
   id="_98" 
-  name="credit-dispute-simple-input"
-  namespace="http://www.entando.com/dmn/definitions/_c540edb3-4b27-4577-8863-1cf0267762b3">
+  name="creditDisputeSimpleInput"
+  namespace="http://entando/dispute">
   <semantic:extensionElements/>
   <semantic:inputData id="_9187a8d0-d828-4f1c-9f97-fdebc80a6314" name="Age">
     <semantic:variable id="_63d23703-b316-4cdf-9f47-7116a64f1f62" name="Age" typeRef="feel:number"/>
