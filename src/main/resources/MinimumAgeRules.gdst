@@ -143,10 +143,10 @@
   <imports>
     <imports>
       <org.kie.soup.project.datamodel.imports.Import>
-        <type>com.fsi.creditcarddisputecase.Cardholder</type>
+        <type>com.redhat.fsi.creditcarddisputecase.Cardholder</type>
       </org.kie.soup.project.datamodel.imports.Import>
       <org.kie.soup.project.datamodel.imports.Import>
-        <type>com.fsi.creditcarddisputecase.AdditionalInformation</type>
+        <type>com.redhat.fsi.creditcarddisputecase.AdditionalInformation</type>
       </org.kie.soup.project.datamodel.imports.Import>
     </imports>
   </imports>

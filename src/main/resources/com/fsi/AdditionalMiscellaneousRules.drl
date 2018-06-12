@@ -1,4 +1,4 @@
-package com.fsi.creditcarddisputecase;
+package com.redhat.fsi.creditcarddisputecase;
 
 rule "Additional info check"
     agenda-group "additional-info"
